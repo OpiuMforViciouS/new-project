@@ -5,3 +5,5 @@
 Light can go through the glass not breaking it
 Shadow of the elephant doesnt weight anything
 
+New answers to non exsisting questions
+
